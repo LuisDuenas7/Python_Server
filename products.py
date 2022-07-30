@@ -1,0 +1,17 @@
+products=[
+    {
+        "name":"Laptop",
+        "price":800,
+        "quantity":5
+    },
+    {
+        "name":"Monitor",
+        "price":500,
+        "quantity":3
+    },
+    {
+        "name":"Mouse",
+        "price":50,
+        "quantity":12
+    }
+]
